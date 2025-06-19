@@ -2,7 +2,7 @@
 
 **ФИО:** Кишов Артём Юрьевич
 
-**Ссылка на Git-репозиторий:** 
+**Ссылка на Git-репозиторий:** https://github.com/SlasherWW/Web-practice-kishov.git
 
 ## Используемые технологии
 - OpenServer 5.3.8
