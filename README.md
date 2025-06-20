@@ -5,8 +5,8 @@
 **Ссылка на Git-репозиторий:** https://github.com/SlasherWW/Web-practice-kishov.git
 
 ## Используемые технологии
-- OpenServer 6.3.5
-- WordPress 6.8.1
+- XAMPP Control Panel v3.3.0
+- Sublime Text 4200
 - PHP 7.4
 - MySQL 5.7 
 
